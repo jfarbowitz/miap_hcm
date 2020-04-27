@@ -14,8 +14,9 @@ Welcome to the practice repository
 10. Save the .md file.
 11. Commit your changes.
 12. If you are working on your local computer, push your chages to Github.com
-13. Submit a pull request to me.
+13. Submit a pull request.
 14. Check to make sure the pull request is approved. If it is not approved, you may need to make changes.
+15. When your pull request is merged, I'll create a link to it on the Github page for this repository, which is here: <https://jfarbowitz.github.com/miap_hcm>
 
 For Reference
 GitHub guide to Markdown: <https://guides.github.com/features/mastering-markdown/>
