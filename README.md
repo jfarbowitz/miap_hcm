@@ -1,5 +1,7 @@
 # MIAP Handling Complex Media
 
+![hello world](https://github.com/jfarbowitz/miap_hcm/blob/master/helloworld.png)
+
 Welcome to the practice repository
 
 ## Setting up Github
