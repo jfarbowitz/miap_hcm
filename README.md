@@ -13,6 +13,10 @@ Welcome to the practice repository
 9. Commit your changes
 10. Push your chages
 11. Submit a pull request to me.
+12. Check to make sure the pull request is approved. If it is not approved, you may need to make changes.
+
+
+https://jfarbowitz.github.io/miap_hcm/
 
 For Reference
 GitHub guide to Markdown: https://guides.github.com/features/mastering-markdown/
