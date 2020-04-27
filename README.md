@@ -10,33 +10,33 @@ Welcome to the practice repository
 
 ## Practice Excercise
 
-3. Go to <https://github.com/jfarbowitz/miap_hcm> and fork the miap_hcm repository by clicking the "Fork" button in the top right corner of the browser window. This will create a copy of the repository in your own account.
+1. Go to <https://github.com/jfarbowitz/miap_hcm> and fork the miap_hcm repository by clicking the "Fork" button in the top right corner of the browser window. This will create a copy of the repository in your own account.
 
-4. Open GitHub Desktop and make sure you are logged in.
+2. Open GitHub Desktop and make sure you are logged in.
 
-5. Click the "Clone a repository from the Internet" button
+3. Click the "Clone a repository from the Internet" button
 
-6. Choose the forked repository in your account
+4. Choose the forked repository in your account
 
-7. Always click "Fetch Origin" and merge new changes before starting any new work.
+5. Always click "Fetch Origin" and merge new changes before starting any new work.
 
-8. Hack away on your local computer! Create a new markdown file titled `[your name].md`. 
+6. Hack away on your local computer! Create a new markdown file titled `[your name].md`. 
 
-9. Add some text, images, URLs, code snippets to the file describing an important concept you learned in MIAP. 
+7. Add some text, images, URLs, code snippets to the file describing an important concept you learned in MIAP. 
 
-10. Save the .md file.
+8. Save the .md file.
 
-11. Commit your changes.
+9. Commit your changes.
 
-12. If you are working on your local computer, push your chages to Github.com
+10. If you are working on your local computer, push your chages to Github.com
 
-13. Submit a pull request.
+11. Submit a pull request.
 
 ## Checking the Results
 
-14. Check to make sure the pull request is approved. If it is not approved, you may need to make changes.
+1. Check to make sure the pull request is approved. If it is not approved, you may need to make changes.
 
-15. When your pull request is merged, I'll create a link to it on the Github page for this repository, which is here: <https://jfarbowitz.github.com/miap_hcm>
+2. When your pull request is merged, I'll create a link to it on the Github page for this repository, which is here: <https://jfarbowitz.github.com/miap_hcm>
 
 ## For Reference
 GitHub guide to Markdown: <https://guides.github.com/features/mastering-markdown/>
