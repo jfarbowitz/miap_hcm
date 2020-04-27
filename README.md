@@ -9,14 +9,13 @@ Welcome to the practice repository
 5. Click the "Clone a repository from the Internet" button
 6. Choose the forked repository in your account
 7. Always click "Fetch Origin" and merge new changes before starting any new work.
-8. Hack away on your local computer!
-9. Commit your changes
-10. Push your chages
-11. Submit a pull request to me.
-12. Check to make sure the pull request is approved. If it is not approved, you may need to make changes.
-
-
-https://jfarbowitz.github.io/miap_hcm/
+8. Hack away on your local computer! Create a new file titled `[your name].md`. 
+9. Add some text, images, URLs, code snippets to the file describing an important concept you learned in MIAP. 
+10. Save the .md file.
+11. Commit your changes.
+12. If you are working on your local computer, push your chages to Github.com
+13. Submit a pull request to me.
+14. Check to make sure the pull request is approved. If it is not approved, you may need to make changes.
 
 For Reference
 GitHub guide to Markdown: https://guides.github.com/features/mastering-markdown/
