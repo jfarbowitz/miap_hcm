@@ -20,9 +20,9 @@ Welcome to the practice repository
 
 5. Always click "Fetch Origin" and merge new changes before starting any new work.
 
-6. Hack away on your local computer! Create a new markdown file titled `[your name].md`. 
+6. Create a new markdown file titled `[your name].md`. 
 
-7. Add some text, images, URLs, code snippets to the file describing an important concept you learned in MIAP. 
+7. Hack away on your local computer! Add some text, images, URLs, code snippets to the .md file describing an important concept you learned in MIAP. 
 
 8. Save the .md file.
 
