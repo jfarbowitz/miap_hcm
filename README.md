@@ -1,6 +1,6 @@
 # MIAP Handling Complex Media
 
-![hello world](https://github.com/jfarbowitz/miap_hcm/blob/master/helloworld.png)
+![hello world](helloworld.png)
 
 Welcome to the practice repository
 
