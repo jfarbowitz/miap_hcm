@@ -4,7 +4,7 @@
 
 Welcome to the practice repository
 
-[Presentation Slides)[https://docs.google.com/presentation/d/1m7RoQpl4cCjpYRPbpvyZfbVylENkRNPC91q9Rn8J1Yg/edit?usp=sharing]
+[Presentation Slides](https://docs.google.com/presentation/d/1m7RoQpl4cCjpYRPbpvyZfbVylENkRNPC91q9Rn8J1Yg/edit?usp=sharing)
 
 ## Setting up Github
 
