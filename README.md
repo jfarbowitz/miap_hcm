@@ -43,4 +43,5 @@ Welcome to the practice repository
 ## For Reference
 GitHub guide to Markdown: <https://guides.github.com/features/mastering-markdown/>
 
-## adding some text
+## Make a Contribution
+See the resources here:https://github.com/amiaopensource/time-based-media-art and if you see something missing, make a contribution!
