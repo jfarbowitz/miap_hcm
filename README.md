@@ -4,6 +4,8 @@
 
 Welcome to the practice repository
 
+[Presentation Slides)[https://docs.google.com/presentation/d/1m7RoQpl4cCjpYRPbpvyZfbVylENkRNPC91q9Rn8J1Yg/edit?usp=sharing]
+
 ## Setting up Github
 
 1. If you don't already have one, Set up an account on <https://github.com>. Save your new account in your favorite password manager. If you don't have a password manager, consider getting one: <https://en.wikipedia.org/wiki/Password_manager>
